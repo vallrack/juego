@@ -1,0 +1,6 @@
+{
+  "name": "Operación KEYSTRIKE: Táctica de Teclados COD",
+  "description": "Juego táctico interactivo militar estilo Call of Duty en gama púrpura sobre switches, formatos y tipologías de teclados de computadora.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
